@@ -1,0 +1,10 @@
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\bin\Debug\c@game.exe.config
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\bin\Debug\c@game.exe
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\bin\Debug\c@game.pdb
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c@game.csproj.AssemblyReference.cache
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c_game.Form1.resources
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c_game.Properties.Resources.resources
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c@game.csproj.GenerateResource.cache
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c@game.csproj.CoreCompileInputs.cache
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c@game.exe
+C:\Users\Sandu Herath\Desktop\C#  Game\c@game\c@game\obj\Debug\c@game.pdb
